@@ -1,4 +1,4 @@
-# WebImageUploadSite
+# PHPImageUploadSite
 画像アップロードサイト
 
 ## 処理
